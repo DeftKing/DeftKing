@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-
+[![Image of https://github.com/DeftKing/my-views-counter](https://github.com/DeftKing/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/DeftKing/my-views-counter)
 <!--![](https://komarev.com/ghpvc/?username=DeftKing)
 **DeftKing/DeftKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
